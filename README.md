@@ -1,2 +1,6 @@
-# autotyper
-Autotyper add made with ruby and tk
+# Autotyper
+Autotyper add made with ruby
+tk module used for gui
+
+dependencies : tk,win32ole
+
